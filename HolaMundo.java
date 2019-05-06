@@ -16,7 +16,11 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
         System.out.println("Hola Mundo Prueba Desde Local Error");
+=======
+        System.out.println("Hola Mundo Prueba Desde GitHub Error");
+>>>>>>> 8f8031e17385ba0b482a5d78a16a76336d507ddc
     }
     
 }
